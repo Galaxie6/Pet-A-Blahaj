@@ -1,6 +1,9 @@
 # Pet A Blåhaj 🦈
 This is a game played on your web browser similar to Wack A Mole, but you pet a Blåhaj!
 
+# How To Play ⭕
+Visit https://pet-a-blahaj-kqi8.vercel.app/
+
 # Controls 🎮
 Left Click / Tap  -  Pet Blåhaj / Evil Blåhaj
 
